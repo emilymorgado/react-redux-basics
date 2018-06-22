@@ -25,8 +25,5 @@ const reducer = (state = initialState, action) => {
   }
   return state;
 };
-//DECREMENT
-//ADD hardcoded value via if/else
-//SUBTRACT hardcoded value via if/else
 
 export default reducer;
